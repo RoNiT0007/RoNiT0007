@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoNiT0007
 - 👀 I’m interested in learning all types of programming languages.
-- 🌱 I’m currently learning Android development in Android studio.
-- 💞️ I’m looking to collaborate on any Android development project or any other coding internships.
+- 🌱 I’ve learned Android development on Android studio and just completed an AR-VR Devlopement Course on Unity.
+- 💞️ I’m looking to collaborate on any Game development project or any other coding internships.
 - 📫 How to reach me. One can reach me at 6204424353 or on my Instagram id-ronitnag1152.
 
 <!---
